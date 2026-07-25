@@ -1,6 +1,1 @@
-┌───────────────────────────────────────────────┐
-│                                               │
-│  "Why join the navy if you can be a pirate?" │
-│                              — Steve Jobs     │
-│                                               │
-└───────────────────────────────────────────────┘
+ "Why join the navy if you can be a pirate?" -Steve Jobs
